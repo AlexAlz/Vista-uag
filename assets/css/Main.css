@@ -1,0 +1,102 @@
+
+
+* {
+	margin:0;
+	padding:0;
+}
+
+*{
+	box-sizing: border-box;
+}
+
+html,body{
+	text-align: center;
+}
+
+/*div{
+ border: solid 1px;
+}*/
+
+html{
+    background-color: white;
+    color: black;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+    font-size: 62.5%;
+}
+
+.ContendorLogoUAG{
+    margin: 0 auto;
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+
+.ContenedorTexto1 p{
+    font-size: 2rem;
+}
+
+.ContenedorTexto1{
+    padding-bottom: 3%;
+}
+
+.ContenedorTexto2 p{
+    font-size: 2rem;
+}
+
+.ContenedorTexto2{
+    padding-bottom: 1%;
+}
+
+.Espacio{
+    height: 1.5rem;
+}
+
+.ContenedorInputs{
+    width: 35%;
+    margin: 0 auto;
+}
+
+.ContenedorInputs input{
+    display: block;
+    width: 100%;
+    font-size: 2rem;
+    padding: 1%;
+    border-radius: 3px;
+    border: solid 2px;
+    border-color: #9A9A9A;
+}
+
+.Submit{
+    background-color: #7A222E;
+    color: white;
+    font-size: 1.5rem;
+    padding: 2%;
+    width: 30%;
+    border: none;
+    border-radius: 3px;
+}
+
+.ContenedorTexto3 p{
+    font-size: 2rem;
+}
+
+.ContenedorTexto3{
+    padding-top: 3%;
+}
+
+.ContenedorImg1{
+    padding-top: 3%;
+}
+
+.ContenedorImg1 img{
+    padding: 2%;
+}
+
+.ContenedorImg2 img{
+    padding: 2%;
+}
+
+.ContenedorImg3 img{
+    padding: 2%;
+}
